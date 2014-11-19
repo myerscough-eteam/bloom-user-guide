@@ -1,6 +1,6 @@
-Example User Guide
-========================
+Myerscough Bloom User Guide
+===========================
 
-This *is* an example user guide for Bloom_.
+Welcome to the Myerscough Bloom_ user guide.
 
 .. _Bloom: https://bloom.myerscough.ac.uk/
