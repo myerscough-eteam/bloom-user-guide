@@ -8,5 +8,4 @@ Welcome to the Myerscough Bloom_ user guide.
 .. toctree::
     :maxdepth: 2
     
-    index
     signin
