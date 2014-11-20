@@ -7,7 +7,5 @@ Welcome to the Myerscough Bloom_ user guide.
 
 .. toctree::
     :maxdepth: 1
-    :hidden:
     
-    index
     signin
