@@ -14,7 +14,7 @@ Your username consists of:
 
 For example, jsmith5678.
 
-.. image:: img/signin.png
+.. image:: img/signin.jpg
 
 .. note:: Your default password is your date of birth in the format DDMMYYYY, for example, 31121984.
 
